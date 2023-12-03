@@ -1,0 +1,7 @@
+CREATE TABLE 'cadastro'.'usuarios'(
+'id' INT NOT NULL AUTO_INCREMENT,
+'nome' VARCHAR(45) NOT NULL,
+'email' VARCHAR(110) NOT NULL,
+'data_nasc' DATE NOT FULL,
+'senha' VARCHAR(8) NOT NULL
+PRIMARY KEY ('id'));
