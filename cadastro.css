@@ -14,6 +14,11 @@ div{
   color: white;
 }
 
+a{
+  color:white;
+  text-decoration:none;
+}
+
 .inputUser{
   background: none;
   border: none;
